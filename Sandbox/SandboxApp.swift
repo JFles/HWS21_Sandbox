@@ -11,7 +11,7 @@ import SwiftUI
 struct SandboxApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Day3_Session4.ContentView()
         }
     }
 }
